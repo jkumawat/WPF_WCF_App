@@ -1,0 +1,5 @@
+c:\users\jeetendra\documents\visual studio 2013\Projects\WCF_Arithmath\WCF_Arithmath\bin\WCF_Arithmath.dll.config
+c:\users\jeetendra\documents\visual studio 2013\Projects\WCF_Arithmath\WCF_Arithmath\bin\WCF_Arithmath.dll
+c:\users\jeetendra\documents\visual studio 2013\Projects\WCF_Arithmath\WCF_Arithmath\bin\WCF_Arithmath.pdb
+c:\users\jeetendra\documents\visual studio 2013\Projects\WCF_Arithmath\WCF_Arithmath\obj\Debug\WCF_Arithmath.dll
+c:\users\jeetendra\documents\visual studio 2013\Projects\WCF_Arithmath\WCF_Arithmath\obj\Debug\WCF_Arithmath.pdb

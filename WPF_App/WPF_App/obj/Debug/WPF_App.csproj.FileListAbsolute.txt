@@ -1,0 +1,13 @@
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\bin\Debug\WPF_App.exe.config
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\bin\Debug\WPF_App.exe
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\bin\Debug\WPF_App.pdb
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\obj\Debug\WPF_App.csprojResolveAssemblyReference.cache
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\obj\Debug\MainWindow.baml
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\obj\Debug\MainWindow.g.cs
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\obj\Debug\App.g.cs
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\obj\Debug\WPF_App_MarkupCompile.cache
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\obj\Debug\WPF_App.g.resources
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\obj\Debug\WPF_App.Properties.Resources.resources
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\obj\Debug\WPF_App.csproj.GenerateResource.Cache
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\obj\Debug\WPF_App.exe
+c:\users\jeetendra\documents\visual studio 2013\Projects\WPF_App\WPF_App\obj\Debug\WPF_App.pdb

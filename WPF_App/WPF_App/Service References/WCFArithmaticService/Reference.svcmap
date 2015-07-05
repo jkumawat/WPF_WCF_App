@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="42a5cedc-bb14-4703-a0eb-e0ecfde6d6af" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:55340/ArithmaticService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ArithmaticService.wsdl" MetadataType="Wsdl" ID="0a2d4866-01f8-4e59-989c-fe824580c14e" SourceId="1" SourceUrl="http://localhost:55340/ArithmaticService.svc?wsdl" />
+    <MetadataFile FileName="ArithmaticService.xsd" MetadataType="Schema" ID="69027875-607b-400a-81d7-a783803521c0" SourceId="1" SourceUrl="http://localhost:55340/ArithmaticService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ArithmaticService1.xsd" MetadataType="Schema" ID="66bf5dcf-ab91-44a7-ba75-1b2458b35c49" SourceId="1" SourceUrl="http://localhost:55340/ArithmaticService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ArithmaticService2.xsd" MetadataType="Schema" ID="1b94e8f2-ba7b-44c1-8002-64418bfa7d19" SourceId="1" SourceUrl="http://localhost:55340/ArithmaticService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ArithmaticService.disco" MetadataType="Disco" ID="84b46033-37f8-4aec-b50d-fec6756095d3" SourceId="1" SourceUrl="http://localhost:55340/ArithmaticService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
